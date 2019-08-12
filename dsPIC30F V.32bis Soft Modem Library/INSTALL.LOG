@@ -1,0 +1,251 @@
+***  Installation Started 08/12/2019 16:23  ***
+Title: 
+Source: C:\Users\SHARRY~1\AppData\Local\Temp\7zO40DFB612\SoftModem v32bis Eval.EXE | 08-12-2019 | 16:23:06 | 4664068
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\license.txt | 08-23-2004 | 08:37:46 | | 9832 | 590282ee
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\docs
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\docs\dsPIC30F Soft Modem Users Guide 71036a.pdf | 06-18-2004 | 10:03:30 | | 3449646 | 2efaeb9b
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\docs\Soft Modem Lib Sell Sheet 70126a.pdf | 05-25-2004 | 15:15:02 | | 548510 | e9495215
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\obj
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V22bis.a | 06-15-2004 | 16:39:22 | | 298914 | d54f66a
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V22bis.bat | 06-13-2004 | 18:00:14 | | 1561 | 9d76fe35
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V22bise.a | 06-15-2004 | 16:05:22 | | 410052 | 911a2da5
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V22bise.bat | 06-13-2004 | 18:00:12 | | 1911 | e5efa61c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V22bisse.a | 06-15-2004 | 16:28:26 | | 391754 | 217daca6
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V22bisse.bat | 06-13-2004 | 18:00:12 | | 1892 | ed72c7ba
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V23.a | 06-15-2004 | 16:40:16 | | 214500 | e7180ac7
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V23.bat | 06-13-2004 | 18:00:14 | | 1185 | e3d7e4ca
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V32.a | 08-16-2004 | 17:44:04 | | 407318 | f1d724c2
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V32.bat | 08-16-2004 | 17:55:48 | | 1675 | 163b0552
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V32bis.a | 08-16-2004 | 16:40:04 | | 554106 | d3d15a4e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V32bis.bat | 08-16-2004 | 17:55:52 | | 2195 | d1998f42
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V32bisse.a | 08-16-2004 | 21:33:02 | | 501494 | af9438d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V32bisse.bat | 08-16-2004 | 21:32:56 | | 2163 | 954b7c0
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V32SE.a | 08-16-2004 | 21:53:50 | | 484618 | aefa868c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\lib\dsPICSM_V32se.bat | 08-16-2004 | 21:53:36 | | 2054 | 6630725d
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\agc.inc | 06-13-2004 | 17:56:40 | | 2383 | f0b2db95
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\apiasm.inc | 06-13-2004 | 17:56:40 | | 8020 | 5736da75
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\callprog.inc | 06-13-2004 | 17:56:38 | | 3436 | 6089b228
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\carrec.inc | 06-13-2004 | 17:56:38 | | 1334 | e5770b58
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\Cmxmacro.inc | 06-13-2004 | 17:56:38 | | 1944 | a975d4bf
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\codecasm.inc | 06-13-2004 | 17:56:36 | | 398 | 787a0c41
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\data.inc | 06-13-2004 | 17:56:36 | | 2325 | 91877e8
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\defs.inc | 06-13-2004 | 17:56:34 | | 26511 | 977bd7b7
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\detconst.inc | 06-13-2004 | 17:56:34 | | 2485 | a6735fa2
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\dettables.inc | 06-13-2004 | 17:56:32 | | 429 | ec7032eb
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\device_Fcy.inc | 07-07-2004 | 16:18:46 | | 777 | 7925b0a2
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\dmctrl.inc | 06-13-2004 | 17:56:32 | | 2421 | a9b77155
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\dpconfig.inc | 08-17-2004 | 13:44:42 | | 2324 | 56312bf5
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\dtmfgen.inc | 06-13-2004 | 17:56:30 | | 881 | ed1f8c8c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\DTMFTables.inc | 06-13-2004 | 17:56:42 | | 731 | 1835267e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\ec.inc | 10-15-2003 | 11:43:52 | | 6582 | 5e4c5f20
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\eqz.inc | 06-13-2004 | 17:57:02 | | 3809 | 37c5320f
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\filter.inc | 06-13-2004 | 17:57:00 | | 2090 | df32aec1
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\hdlc.inc | 06-13-2004 | 17:57:00 | | 3207 | 78798745
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\message.inc | 06-13-2004 | 17:56:58 | | 764 | 74d5b475
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\modem.inc | 06-13-2004 | 17:56:58 | | 14833 | c7b40eee
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\psf.inc | 06-13-2004 | 17:56:58 | | 1988 | be923345
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\sbar.inc | 06-13-2004 | 17:56:56 | | 1363 | 9636d4ad
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\si3021config.inc | 06-13-2004 | 17:56:54 | | 4426 | 37e33f4a
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\Si3021_mode.inc | 06-13-2004 | 17:56:56 | | 1091 | 85ab898b
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\Si3021_outputs.inc | 06-13-2004 | 17:56:54 | | 2864 | 4202dabd
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\signal.inc | 06-13-2004 | 17:56:54 | | 1033 | 636caf45
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\sipl.inc | 06-13-2004 | 17:56:52 | | 1472 | bd47a3be
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\tables.inc | 06-13-2004 | 17:56:52 | | 1830 | c7a06419
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\toned.inc | 06-13-2004 | 17:57:04 | | 1074 | 4d65b0b9
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\trel.inc | 10-13-2003 | 18:43:04 | | 1257 | 795b982a
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\v21.inc | 06-13-2004 | 17:57:18 | | 1844 | 720d45e9
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\v22.inc | 06-13-2004 | 17:57:16 | | 5671 | b2bfd171
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\v23.inc | 06-13-2004 | 17:57:16 | | 3527 | 522d8f4d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\v25.inc | 06-13-2004 | 17:57:16 | | 2848 | 7778957b
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\v32.inc | 11-25-2003 | 12:41:40 | | 4056 | 388b6e94
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\v8.inc | 06-13-2004 | 17:57:18 | | 3829 | 47d46da3
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\inc\vit.inc | 10-15-2003 | 18:37:28 | | 1655 | cc801185
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\hex
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\API_C.H | 06-13-2004 | 17:56:00 | | 9395 | 62b07be8
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\atapi.h | 06-13-2004 | 17:55:58 | | 2599 | 117771a8
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\At_cmds.h | 06-13-2004 | 17:56:00 | | 5100 | 7f412cab
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\codec_c.h | 06-13-2004 | 17:55:58 | | 399 | 2d6cac8d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\csfunc.h | 06-13-2004 | 17:55:58 | | 2230 | 3778388f
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\DATATYPE.H | 06-13-2004 | 17:55:56 | | 1187 | d800f69d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\delay.h | 07-07-2004 | 16:29:38 | | 515 | 66de0335
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\lcd.h | 06-13-2004 | 17:55:54 | | 687 | 83efa006
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\MCCONST.H | 06-13-2004 | 17:55:54 | | 6707 | 33b03d1a
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\OPTIONS.H | 08-17-2004 | 13:44:20 | | 710 | 47e12ec4
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\SMUA_OL.h | 06-13-2004 | 17:55:52 | | 1516 | f22f39f8
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\V42.H | 06-13-2004 | 17:55:50 | | 8968 | df3061c8
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\h\V42API.H | 06-13-2004 | 17:56:02 | | 4385 | 92bab351
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\v42
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\v42\V42BF.C | 06-13-2004 | 17:59:42 | | 11761 | ba86e76c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\v42\V42if.c | 06-17-2004 | 09:53:48 | | 23151 | ca310438
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\v42\V42M.C | 06-13-2004 | 17:59:40 | | 18505 | a5bf0344
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\v42\V42MAIN.C | 06-13-2004 | 17:59:38 | | 17826 | 43b03eba
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\v42\V42N.C | 06-13-2004 | 17:59:38 | | 12862 | fe7cf9fb
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\v42\V42PF.C | 06-13-2004 | 17:59:42 | | 50127 | a9a4e1f3
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bis_obj
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bis_obj\trel.o | 08-16-2004 | 16:18:12 | | 10607 | 733beb1e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bis_obj\V32bis.o | 08-16-2004 | 16:18:10 | | 43717 | 53ea0151
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bis_obj\V32ec.o | 08-16-2004 | 16:18:10 | | 22687 | 8917cb62
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bis_obj\V32RR.o | 08-16-2004 | 16:18:10 | | 19264 | 964f457e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bis_obj\viterbi.o | 08-16-2004 | 16:18:12 | | 13879 | ca1e0d0b
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bisse_obj
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bisse_obj\trel.o | 08-16-2004 | 21:32:44 | | 10607 | 733beb1e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bisse_obj\V32bis.o | 08-16-2004 | 21:32:46 | | 43717 | 53ea0151
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bisse_obj\V32ec.o | 08-16-2004 | 21:32:46 | | 22687 | 8917cb62
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bisse_obj\V32RR.o | 08-16-2004 | 21:32:46 | | 19264 | 964f457e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32bisse_obj\viterbi.o | 08-16-2004 | 21:32:40 | | 13879 | ca1e0d0b
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32se_obj
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32se_obj\trel.o | 08-16-2004 | 21:52:04 | | 9125 | 54d3656c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32se_obj\V32bis.o | 08-16-2004 | 21:52:06 | | 43455 | 6cd6d42c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32se_obj\V32ec.o | 08-16-2004 | 21:52:06 | | 19542 | 9704122d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32se_obj\V32RR.o | 08-16-2004 | 21:52:06 | | 16846 | cb890281
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32se_obj\viterbi.o | 08-16-2004 | 21:52:00 | | 9555 | ff7167da
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32_obj
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32_obj\trel.o | 08-17-2004 | 13:47:12 | | 9125 | 54d3656c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32_obj\V32bis.o | 08-17-2004 | 13:47:12 | | 43455 | 6cd6d42c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32_obj\V32ec.o | 08-17-2004 | 13:47:12 | | 19542 | 9704122d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32_obj\V32RR.o | 08-17-2004 | 13:47:12 | | 16846 | cb890281
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\obj\V32_obj\viterbi.o | 08-17-2004 | 13:47:12 | | 9555 | ff7167da
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DTMFGen
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DTMFGen\DTMFGEN.s | 06-13-2004 | 17:58:48 | | 14376 | a072e87a
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DTMFGen\DTMFTables.s | 06-13-2004 | 17:58:48 | | 1275 | 1878c7da
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DTMFDet
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DTMFDet\Basicop.S | 06-13-2004 | 17:58:42 | | 10823 | c7df749c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DTMFDet\DetTables.s | 06-13-2004 | 17:58:40 | | 792 | dd874b4
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DTMFDet\Dtmfbuf.s | 06-13-2004 | 17:58:40 | | 12494 | 3cfb6faf
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DTMFDet\DTMFFUNC.S | 06-13-2004 | 17:58:40 | | 48594 | 76b6b91d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DTMFDet\DTMFINIT.S | 06-13-2004 | 17:58:42 | | 6890 | 631cfa0e
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\AGC.S | 06-30-2004 | 07:01:40 | | 28318 | e32947fd
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\CALLPROG.S | 06-13-2004 | 17:57:56 | | 49613 | 75d5b273
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\CARREC.S | 06-13-2004 | 17:57:54 | | 14462 | d66eecd5
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\DATA.S | 06-13-2004 | 17:57:56 | | 46396 | 92ea8d21
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\DMCTRL.S | 06-13-2004 | 17:57:58 | | 28782 | 829e28d6
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\EC.S | 05-11-2004 | 15:01:08 | | 55897 | 54bfcd6d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\EQZ.S | 06-24-2004 | 15:57:14 | | 54216 | c622e0b0
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\FILTER.S | 06-13-2004 | 17:57:52 | | 21885 | 4c419095
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\HDLC.S | 06-13-2004 | 17:57:50 | | 32564 | 153b53c8
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\MDMKERN.S | 06-13-2004 | 17:57:50 | | 58893 | d93a1ad0
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\MESSAGE.S | 06-24-2004 | 15:15:20 | | 27161 | 1c4efaa2
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\MODEMVAR.S | 06-13-2004 | 17:57:48 | | 31432 | ab5fe7d2
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\PSF.S | 06-13-2004 | 17:57:54 | | 18317 | e746bda0
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\rtd.c | 06-13-2004 | 17:58:10 | | 1973 | 2d5fee28
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\SBAR.S | 06-13-2004 | 17:58:10 | | 14681 | 67abf124
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\SIGNAL.S | 06-13-2004 | 17:58:16 | | 15981 | e9beb430
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\SIPL.S | 06-13-2004 | 17:58:08 | | 18183 | 872296f6
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\TABLES.S | 06-14-2004 | 09:32:12 | | 27218 | d780b5fb
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\TONED.S | 06-13-2004 | 17:58:06 | | 9774 | f4127ca2
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\V21.S | 06-13-2004 | 17:58:28 | | 40262 | cb9e9723
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\V22BIS.S | 06-13-2004 | 17:58:26 | | 152428 | 5895c7e6
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\V23.S | 06-13-2004 | 17:58:26 | | 37750 | 68340473
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\V25.S | 06-13-2004 | 17:58:26 | | 31353 | 82f03c6e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\DP\V8.S | 06-30-2004 | 07:01:58 | | 67053 | 3a41c49b
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Debug
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Debug\debmsgs.c | 06-11-2004 | 08:36:58 | | 7731 | 188a046
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\ATCMD
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\ATCMD\AT_Cmds.c | 06-13-2004 | 17:57:32 | | 73245 | 2f407c4c
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\API
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\API\API.C | 07-19-2004 | 16:15:18 | | 48434 | e46bc582
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\API\Smua_il.c | 06-28-2004 | 07:43:50 | | 37156 | 6fa4dd55
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\API\Smua_ol.c | 08-16-2004 | 16:51:02 | | 15386 | ab813537
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\delay.c | 07-07-2004 | 16:07:44 | | 2630 | 27ed91af
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\device_config.s | 06-13-2004 | 17:58:56 | | 2499 | 341fb016
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\lcd.c | 07-07-2004 | 17:10:36 | | 7620 | 61615f55
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\traps.s | 06-13-2004 | 17:58:58 | | 5172 | 8f79c8c6
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\Uart
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\Uart\init_uart.s | 06-13-2004 | 17:59:30 | | 9051 | 3999dd6c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\Uart\isr_uart1.s | 06-13-2004 | 17:59:32 | | 15768 | 1b2ad6f
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\Switch
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\Switch\INTpin_Init.s | 06-13-2004 | 17:59:24 | | 2567 | c540fb38
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\Switch\INTx_Interrupt.s | 06-28-2004 | 07:45:20 | | 2456 | 2e7c29d7
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\AFE
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\AFE\dci_init.s | 06-28-2004 | 07:44:20 | | 8178 | eb1a9b8c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\AFE\DCI_ISR.s | 06-28-2004 | 07:44:22 | | 8254 | 7557d700
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\AFE\Init.s | 07-07-2004 | 17:09:40 | | 11451 | a404555f
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\AFE\si3021_init.s | 06-13-2004 | 17:59:16 | | 34020 | e710ea01
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\ADC
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\ADC\bin2dec.c | 06-13-2004 | 17:59:06 | | 6447 | dc28af61
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\ADC\display.s | 06-28-2004 | 08:49:02 | | 8753 | 37d0de3d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\ADC\init_Adc.s | 06-28-2004 | 07:43:28 | | 5517 | e11b0f98
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\V.32bis Modem_R1.0\source\Hardware\ADC\isr_Adc.s | 06-28-2004 | 07:45:00 | | 4151 | da1650e0
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\DTMF_Demo.mcp | 05-24-2004 | 15:43:48 | | 2277 | 7dd18587
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\DTMF_Demo.mcs | 05-24-2004 | 15:45:38 | | 27925 | 2fc89e5
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\DTMF_Demo.mcw | 05-24-2004 | 15:45:38 | | 25088 | bdd11e0c
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\Basicop.o | 05-24-2004 | 15:43:50 | | 1725 | 26af88f7
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\dci_init.o | 05-24-2004 | 15:43:50 | | 8392 | 90a1c983
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\DCI_ISR.o | 05-24-2004 | 15:43:50 | | 8820 | f8ce02a0
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\delay.o | 05-24-2004 | 15:43:52 | | 46652 | 192eb70e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\DetTables.o | 05-24-2004 | 15:43:50 | | 861 | 2f6e3335
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\device_config.o | 05-24-2004 | 15:43:52 | | 8041 | fd0c30e1
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\Dtmfbuf.o | 05-24-2004 | 15:43:50 | | 3736 | aec14488
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\DTMFFUNC.o | 05-24-2004 | 15:43:50 | | 8469 | 87d51736
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\DTMFGEN.o | 05-24-2004 | 15:43:50 | | 4235 | 8f8ee585
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\DTMFINIT.o | 05-24-2004 | 15:43:50 | | 1340 | 9e50fe29
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\DTMFMain.o | 05-24-2004 | 15:43:50 | | 9553 | bdb82d66
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\DTMFTables.o | 05-24-2004 | 15:43:52 | | 945 | 7358125
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\Init.o | 05-24-2004 | 15:43:50 | | 8479 | 42584337
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\init_uart.o | 05-24-2004 | 15:43:52 | | 8087 | ca1a714d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\INTpin_Init.o | 05-24-2004 | 15:43:50 | | 7762 | 3f6af8bf
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\INTx_Interrupt.o | 05-24-2004 | 15:43:50 | | 8034 | a4e075cf
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\isr_uart1.o | 05-24-2004 | 15:43:52 | | 9738 | ac005a04
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\lcd.o | 05-24-2004 | 15:43:52 | | 47585 | a6798d01
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\si3021_init.o | 05-24-2004 | 15:43:50 | | 11945 | 4b6b8934
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\obj\traps.o | 05-24-2004 | 15:43:50 | | 9362 | 9a7fdae2
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc\codecasm.inc | 05-24-2004 | 12:58:24 | | 400 | 54fc6fe1
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc\detconst.inc | 05-24-2004 | 12:58:30 | | 2487 | 4b32b70c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc\dettables.inc | 05-24-2004 | 12:58:28 | | 431 | c4b8124e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc\device_Fcy.inc | 05-24-2004 | 12:57:36 | | 806 | 812dc748
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc\dtmfgen.inc | 05-24-2004 | 12:58:18 | | 883 | b4e3ba80
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc\DTMFTables.inc | 05-24-2004 | 12:58:42 | | 733 | 901f63cb
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc\si3021config.inc | 05-24-2004 | 12:57:44 | | 4184 | c74f59fd
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc\Si3021_mode.inc | 05-24-2004 | 12:58:34 | | 1093 | 3ddaa946
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\inc\Si3021_outputs.inc | 05-24-2004 | 12:58:38 | | 2866 | a7a10f18
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\hex
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\hex\DTMF_Demo.cof | 05-24-2004 | 15:43:52 | | 162536 | ab56d91b
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\hex\DTMF_Demo.hex | 05-24-2004 | 15:43:52 | | 31165 | d75b7093
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\hex\DTMF_Demo.map | 05-24-2004 | 15:43:52 | | 109448 | 7f3f5ea1
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\h
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\h\DATATYPE.H | 05-24-2004 | 12:58:04 | | 1189 | 32d1129e
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\h\delay.h | 05-24-2004 | 12:58:10 | | 514 | 1a9d2545
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\h\detconst_c.h | 05-24-2004 | 12:58:00 | | 1661 | 4ea556c0
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\h\lcd.h | 05-24-2004 | 12:57:56 | | 687 | 83efa006
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\h\OPTIONS.H | 05-24-2004 | 15:39:38 | | 2510 | c773c272
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\DTMFGen
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\DTMFGen\DTMFGEN.s | 05-24-2004 | 12:54:12 | | 14610 | 69cff026
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\DTMFGen\DTMFTables.s | 05-24-2004 | 12:54:30 | | 1277 | 6f706309
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\DTMFDet
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\DTMFDet\Basicop.S | 05-24-2004 | 12:51:12 | | 10845 | 52a1738b
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\DTMFDet\DetTables.s | 05-24-2004 | 12:53:36 | | 794 | ba3e59fa
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\DTMFDet\Dtmfbuf.s | 05-24-2004 | 12:53:54 | | 12517 | 766c59cd
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\DTMFDet\DTMFFUNC.S | 05-24-2004 | 12:54:02 | | 48616 | d421c60d
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\DTMFDet\DTMFINIT.S | 05-24-2004 | 12:54:20 | | 6912 | 168d35c0
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\API
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\API\DTMFMain.c | 05-24-2004 | 12:54:24 | | 5800 | 8ffdc600
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\delay.c | 05-24-2004 | 12:53:32 | | 2629 | b92561f1
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\device_config.s | 05-24-2004 | 12:53:42 | | 2499 | 341fb016
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\traps.s | 05-24-2004 | 12:56:54 | | 5333 | 7f943970
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\UART
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\UART\init_uart.s | 05-24-2004 | 12:54:46 | | 6757 | e14369a9
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\UART\isr_uart1.s | 05-24-2004 | 12:56:02 | | 13066 | 24bfded4
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\Switch
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\Switch\INTpin_Init.s | 05-24-2004 | 12:55:26 | | 2790 | 4eabc364
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\Switch\INTx_Interrupt.s | 05-24-2004 | 12:55:46 | | 3231 | 74f4439f
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\LCD
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\LCD\lcd.c | 05-24-2004 | 12:56:12 | | 7611 | 37ab9b67
+Made Dir: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\AFE
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\AFE\dci_init.s | 05-24-2004 | 12:52:10 | | 8038 | 8aa2758c
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\AFE\DCI_ISR.s | 05-24-2004 | 12:53:12 | | 8220 | f483c826
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\AFE\Init.s | 05-24-2004 | 12:54:38 | | 11226 | cd190d79
+File Copy: D:\Microchip\dsPIC30F V.32bis Soft Modem Library\DTMF Demo\Source\Hardware\AFE\si3021_init.s | 05-24-2004 | 12:57:26 | | 21727 | 670662da
